@@ -1,10 +1,10 @@
 # RPS-Multiplayer
 
-## jQuary
-## Firebase
-## CSS
-## JS
-## HTML
+### jQuary
+### Firebase
+### CSS
+### JS
+### HTML
 
 #Instructions
 
@@ -14,8 +14,8 @@
 
 * The game will track each player's wins and losses.
 
-*Throw some chat functionality in there! No online multiplayer game is complete without having to endure endless taunts and insults from your jerk opponent.
+* Throw some chat functionality in there! No online multiplayer game is complete without having to endure endless taunts and insults from your jerk opponent.
 
-*Styling and theme are completely up to you. Get Creative!
+* Styling and theme are completely up to you. Get Creative!
 
-*Deploy your assignment to Github Pages.
+* Deploy your assignment to Github Pages.
