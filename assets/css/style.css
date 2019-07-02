@@ -1,0 +1,42 @@
+html {
+    height: 100%;
+  }
+  
+  .row .col {
+    padding-top: 1rem;
+  }
+  
+  .btn-small {
+    margin: 3px;
+    background-color: rgb(162, 0, 0);
+    text-decoration-line: underline;
+    border-radius: 16px;
+  }
+  
+  h5, h6, p, a {
+    text-align: center;
+    color: rgb(162, 0, 0);
+  }
+ 
+
+  .nav-wrapper{
+      text-align: center;
+      background-color: rgb(162, 0, 0);
+  }
+  .btn{
+      background-color: rgb(162, 0, 0);
+      text-decoration-line: underline;
+      border-radius: 16px;
+
+
+  }
+body{
+    background-color: black
+}
+h4{
+    color: rgb(162, 0, 0);
+}
+.materialize-textarea{
+color: white;
+
+}
